@@ -1,0 +1,10 @@
+body{
+    color: rgb(255, 72, 0);
+    font-size: 18px;
+}
+#header{color: brown}
+.yo{color: coral;
+    background-color: rgb(231, 231, 231);
+    font-size: 20px
+}
+#yellow{color: yellow}
